@@ -69,4 +69,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [your-website.com](https://{your-web-site-link})
-- GitHub [JosephPL](https://{https://github.com/JosephPL})
+- GitHub [JosephPL](https://{github.com/JosephPL})
