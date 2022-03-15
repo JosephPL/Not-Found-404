@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{404 Not Found by JosephPL}</h1>
+<h1 align="center">404 Not Found by JosephPL</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -36,7 +36,11 @@
 
 ## Overview
 
-![screenshot](https://res.cloudinary.com/doaqclyoh/image/upload/v1647295211/ScreenShots/404pc.jpg)
+![screenshot](https://res.cloudinary.com/doaqclyoh/image/upload/v1647303926/ScreenShots/screencapture-127-0-0-1-5500-index-html-2022-03-14-18_22_44.png)
+
+Mobile
+
+![mobile](https://res.cloudinary.com/doaqclyoh/image/upload/v1647303926/ScreenShots/screencapture-127-0-0-1-5500-index-html-2022-03-14-18_24_28.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
@@ -69,4 +73,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [your-website.com](https://{your-web-site-link})
-- GitHub [JosephPL](https://{github.com/JosephPL})
+- GitHub [JosephPL](https://github.com/JosephPL)
