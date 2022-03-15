@@ -17,7 +17,7 @@ section {
 
 .svg {
     height: 50vh;
-    background-image: url('/Scarecrow.png');
+    background-image: url('../img/Scarecrow.png');
     background-size: contain;
     background-repeat: no-repeat;
     margin-left: 50px;
